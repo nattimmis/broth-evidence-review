@@ -1,0 +1,126 @@
+{
+  "note": "No supplement-vendor sources were used for any toxicological or clinical claim.",
+  "sources": [
+    {
+      "id": "S01",
+      "title": "Liver Injury Associated with Turmeric - A Growing Problem: Ten Cases from DILIN",
+      "pub": "The American Journal of Medicine",
+      "type": "case series",
+      "url": "https://www.amjmed.com/article/S0002-9343(22)00740-9/fulltext",
+      "supports": "Turmeric DILI is documented and increasing; hepatocellular pattern"
+    },
+    {
+      "id": "S02",
+      "title": "Drug-Induced Liver Injury Associated with Turmeric and Piperine: A Case and Review",
+      "pub": "Case Reports in Gastroenterology (Karger)",
+      "type": "case report + review",
+      "url": "https://karger.com/crg/article/19/1/96/921661/Drug-Induced-Liver-Injury-Associated-with-Turmeric",
+      "supports": "Piperine as the implicated cofactor; HLA-B*35:01 association"
+    },
+    {
+      "id": "S03",
+      "title": "DILI Secondary to Turmeric Supplement Containing Piperine",
+      "pub": "Cureus",
+      "type": "case report",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12633785/",
+      "supports": "20x bioavailability increase; pro-oxidant flip mechanism"
+    },
+    {
+      "id": "S04",
+      "title": "Coumarin in Cinnamon: Toxicology, Exposure Limits, and Species Authentication",
+      "pub": "industry technical review",
+      "type": "review",
+      "url": "https://ceylonnutritionals.com/blogs/news/coumarin-in-cinnamon-toxicology-exposure-limits-and-the-importance-of-species-authentication",
+      "supports": "EFSA TDI 0.1 mg/kg bw; cassia vs Ceylon coumarin ratio",
+      "caveat": "Vendor-adjacent; EFSA TDI figure independently corroborated by S05"
+    },
+    {
+      "id": "S05",
+      "title": "Relation between Hepatotoxicity and Total Coumarin Intake from Traditional Japanese Medicines Containing Cinnamon Bark",
+      "pub": "PMC",
+      "type": "primary research",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4913087/",
+      "supports": "Dose-dependent coumarin hepatotoxicity; clinical case at culinary-scale dose"
+    },
+    {
+      "id": "S06",
+      "title": "The risk of lead contamination in bone broth diets",
+      "pub": "Medical Hypotheses (Monro et al.)",
+      "type": "controlled measurement",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23375414/",
+      "supports": "Lead concentrations 7.01 and 9.5 ug/L in chicken broths"
+    },
+    {
+      "id": "S07",
+      "title": "Clinical trials on curcumin in relation to bioavailability and effect on malignant diseases: critical analysis",
+      "pub": "PMC",
+      "type": "critical review",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11074217/",
+      "supports": "No convincing demonstrated effect in malignancy; methodological weakness"
+    },
+    {
+      "id": "S08",
+      "title": "Phase I Clinical Trial of Oral Curcumin",
+      "pub": "Clinical Cancer Research (AACR)",
+      "type": "phase I trial",
+      "url": "https://aacrjournals.org/clincancerres/article/10/20/6847/96368/Phase-I-Clinical-Trial-of-Oral-CurcuminBiomarkers",
+      "supports": "Safe to 12 g/day yet still low bioavailability"
+    },
+    {
+      "id": "S09",
+      "title": "EASL Clinical Practice Guidelines on nutrition in chronic liver disease",
+      "pub": "EASL / Journal of Hepatology",
+      "type": "clinical guideline",
+      "url": "https://easl.eu/wp-content/uploads/2018/10/EASL-CPG-nutrition-in-chronic-liver-disease.pdf",
+      "supports": "Protein 1.2-1.5 g/kg/day; late-evening snack"
+    },
+    {
+      "id": "S10",
+      "title": "Malnutrition in the Adult with Cirrhosis",
+      "pub": "AASLD Liver Fellow Network",
+      "type": "clinical education",
+      "url": "https://www.aasld.org/liver-fellow-network/core-series/clinical-pearls/malnutrition-adult-cirrhosis",
+      "supports": "Protein targets; sarcopenia as prognostic factor"
+    },
+    {
+      "id": "S11",
+      "title": "Back to Basics: Outpatient Management of Cirrhosis",
+      "pub": "AASLD Liver Fellow Network",
+      "type": "clinical education",
+      "url": "https://www.aasld.org/liver-fellow-network/core-series/back-basics/back-basics-outpatient-management-cirrhosis",
+      "supports": "<2g/day sodium with ascites; palatability/intake caveat"
+    },
+    {
+      "id": "S12",
+      "title": "Significant Amounts of Functional Collagen Peptides Can Be Incorporated in the Diet While Maintaining Indispensable Amino Acid Balance",
+      "pub": "PMC",
+      "type": "primary research",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6566836/",
+      "supports": "Collagen lacks tryptophan; incomplete under PDCAAS"
+    },
+    {
+      "id": "S13",
+      "title": "Amino Acid Content of Beef, Chicken and Turkey Bone Broth",
+      "pub": "Westmont College",
+      "type": "laboratory analysis",
+      "url": "https://www.westmont.edu/sites/default/files/users/user1231/V19No4/Nick%20Flynn_final.pdf",
+      "supports": "Measured amino acid profile of real bone broths"
+    },
+    {
+      "id": "S14",
+      "title": "Essential and toxic metals in animal bone broths",
+      "pub": "PMC",
+      "type": "primary research",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5533136/",
+      "supports": "Pb/Cd risk minimal per serving; Ca/Mg <5% RDA per serving"
+    },
+    {
+      "id": "S15",
+      "title": "Sarcopenia in cirrhosis: from pathogenesis to interventions",
+      "pub": "PMC",
+      "type": "review",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6759678/",
+      "supports": "Mechanisms of muscle loss in cirrhosis"
+    }
+  ]
+}

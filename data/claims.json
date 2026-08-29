@@ -1,0 +1,139 @@
+{
+  "reviewed": "2026-08-29",
+  "subject": "Bone broth protocol proposed for a person with stage 4 cancer and liver cirrhosis",
+  "headline_verdict": "NO — no broth, spice or cooking method destroys cancer cells or reverses cirrhosis. Value is supportive nutrition only.",
+  "claims": [
+    {
+      "id": "C1",
+      "claim": "A turmeric/cinnamon broth destroys cancer cells",
+      "verdict": "FALSE",
+      "confidence": "high",
+      "evidence": "Critical analysis of curcumin clinical trials concludes studies failed to convincingly demonstrate significant positive effect in malignant disease; 'use of curcumin in malignant diseases is not justified scientifically' at present.",
+      "sources": [
+        "S07",
+        "S08"
+      ],
+      "doc": "docs/04-cancer-claims.md"
+    },
+    {
+      "id": "C2",
+      "claim": "A 13-hour boil confers anti-cancer properties",
+      "verdict": "FALSE",
+      "confidence": "high",
+      "evidence": "No mechanism and no evidence. 12-18h IS however correct practice for beef bones on culinary grounds (collagen to gelatin conversion), so the duration was retained.",
+      "sources": [],
+      "doc": "RECIPE.md"
+    },
+    {
+      "id": "C3",
+      "claim": "Eating bone marrow cleanses the liver and reverses cirrhosis",
+      "verdict": "FALSE",
+      "confidence": "high",
+      "evidence": "Marrow is predominantly fat. No cleansing mechanism exists; the liver is not a filter accumulating flushable residue. Marrow does not affect fibrosis. Retains genuine value as a dense calorie source in malnutrition.",
+      "sources": [],
+      "doc": "docs/04-cancer-claims.md"
+    },
+    {
+      "id": "C4",
+      "claim": "Liver fibrosis can regress",
+      "verdict": "TRUE — but not via food",
+      "confidence": "high",
+      "evidence": "Fibrosis regression is well documented, driven by treating the underlying aetiology: alcohol cessation, HBV/HCV antivirals, weight loss in MASLD. Nutrition supports the body while those work; it is not the lever.",
+      "sources": [],
+      "doc": "docs/04-cancer-claims.md"
+    },
+    {
+      "id": "C5",
+      "claim": "Turmeric should be potentiated with black pepper for absorption",
+      "verdict": "TRUE mechanistically — DANGEROUS here",
+      "confidence": "high",
+      "evidence": "20mg piperine raises curcumin bioavailability ~20x. This is precisely the pattern implicated in turmeric-associated DILI; DILIN published a ten-case series. Mechanisms: HLA-B*35:01-linked immune-mediated injury, and a dose-dependent antioxidant-to-pro-oxidant flip generating ROS and hepatocyte apoptosis.",
+      "sources": [
+        "S01",
+        "S02",
+        "S03"
+      ],
+      "doc": "docs/01-hepatotoxicity.md"
+    },
+    {
+      "id": "C6",
+      "claim": "Cinnamon is safe for a person with liver disease",
+      "verdict": "DEPENDS ENTIRELY ON SPECIES",
+      "confidence": "high",
+      "evidence": "Cassia ~1% coumarin vs Ceylon ~0.004% (~250x). EFSA TDI 0.1 mg/kg bw (~7mg/70kg adult). One tsp cassia = 7-20mg coumarin. Case: 23-year-old hospitalised with hepatitis after 1-2g cinnamon daily for two months.",
+      "sources": [
+        "S04",
+        "S05"
+      ],
+      "doc": "docs/01-hepatotoxicity.md"
+    },
+    {
+      "id": "C7",
+      "claim": "Protein should be restricted in liver disease",
+      "verdict": "FALSE — OVERTURNED DOGMA",
+      "confidence": "high",
+      "evidence": "EASL: stable cirrhosis 1.2-1.5 g/kg IBW/day; sarcopenia 1.5 g/kg. Sarcopenia is a hard prognostic factor. Muscle handles ammonia when the liver cannot, so losing muscle worsens the encephalopathy restriction was meant to prevent.",
+      "sources": [
+        "S09",
+        "S10"
+      ],
+      "doc": "docs/02-cirrhosis-nutrition.md"
+    },
+    {
+      "id": "C8",
+      "claim": "Bone broth is a good protein source",
+      "verdict": "FALSE",
+      "confidence": "high",
+      "evidence": "Collagen contains zero tryptophan and is incomplete under PDCAAS; also low in methionine and in the BCAAs that matter most in cirrhosis. Rich in glycine/proline/hydroxyproline. Use as a carrier for complete protein, not as the protein.",
+      "sources": [
+        "S12",
+        "S13"
+      ],
+      "doc": "docs/02-cirrhosis-nutrition.md"
+    },
+    {
+      "id": "C9",
+      "claim": "A salty reduced broth plus Mediterranean salads is appropriate",
+      "verdict": "FALSE where ascites is present",
+      "confidence": "high",
+      "evidence": "Target <2g sodium/day (~90 mEq, ~5.2g salt). Prepared broths are named as high-sodium items to avoid. Mitigation: zero salt in the pot, salt at the bowl. Counter-caution: sodium restriction reduces palatability and can worsen intake; liberalise if malnourished.",
+      "sources": [
+        "S11"
+      ],
+      "doc": "docs/02-cirrhosis-nutrition.md"
+    },
+    {
+      "id": "C10",
+      "claim": "Raw shellfish is fine as part of a Mediterranean pattern",
+      "verdict": "FALSE — POTENTIALLY FATAL",
+      "confidence": "high",
+      "evidence": "Cirrhosis is the major risk factor for Vibrio vulnificus septicaemia, mortality on the order of 50%. Hard rule: cooked shellfish only.",
+      "sources": [],
+      "doc": "docs/03-food-safety.md"
+    },
+    {
+      "id": "C11",
+      "claim": "Bone broth carries a meaningful heavy-metal risk",
+      "verdict": "MEASURABLE BUT MINOR",
+      "confidence": "moderate",
+      "evidence": "Monro et al.: broths contain several times the lead of their source water (chicken bone broth 7.01 ug/L; skin and cartilage 9.5 ug/L). Counterweight: later analysis found Pb/Cd risk minimal at a few ug per serving. Note the same paper undercuts the mineral claims FOR broth (Ca/Mg <5% RDA per serving).",
+      "sources": [
+        "S06",
+        "S14"
+      ],
+      "doc": "docs/03-food-safety.md"
+    },
+    {
+      "id": "C12",
+      "claim": "A late-evening snack matters in cirrhosis",
+      "verdict": "TRUE — AND UNDERUSED",
+      "confidence": "high",
+      "evidence": "Cirrhotic livers hold little glycogen, so an overnight fast drives catabolism and muscle loss. EASL recommends a late-evening snack; research notes patients often miss it despite its importance. Zero cost, no prescription.",
+      "sources": [
+        "S09",
+        "S10"
+      ],
+      "doc": "docs/02-cirrhosis-nutrition.md"
+    }
+  ]
+}
