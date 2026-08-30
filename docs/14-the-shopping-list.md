@@ -71,11 +71,20 @@ sodium** - about 13% of the daily ceiling.
 
 ## The trolley
 
-**Non-negotiables:** porridge oats 1 kg (**50-60 g/day** - published beta-glucan figures
-for oats range from about **4 to 7.5 g per 100 g** depending on product and assay, so
-50-60 g clears the 3 g threshold on either figure, and erring high costs nothing but
-useful calories), whole milk 4-6 pints, plain **pasteurised** Greek yoghurt 2 x 500 g,
-coffee.
+**Non-negotiables:** porridge oats 1.5 kg (**75 g/day**), whole milk 4-6 pints, plain
+**pasteurised** Greek yoghurt 2 x 500 g, coffee.
+
+> **Correction to an earlier version of this list.** It said 50-60 g of oats "clears the
+> 3 g beta-glucan threshold on either figure". That is arithmetically false. Published
+> beta-glucan values range from about **4 to 7.5 g per 100 g**: at the low figure you need
+> **75 g** to reach 3 g, and 50 g would give only 2.0 g. At the high figure 40 g suffices.
+> **75 g/day clears it whichever figure is right**, and the overshoot is pure useful
+> calories. That is 525 g a week.
+
+> **A refinement on fortifying.** Reaching 2,450 kcal/day tends to overshoot 105 g of
+> protein on its own. Once the protein target is met, add the remaining calories as
+> **cream, oil, butter or jam** rather than more milk powder - fat and sugar are the
+> calorie-dense fillers, and the powder has already done its job.
 
 **Protein:** chicken breast 1 kg, tinned sardines or mackerel 4-6 tins **in oil,
 undrained**, eggs 12-18, cheddar or cottage cheese, red lentils or dry pulses.
