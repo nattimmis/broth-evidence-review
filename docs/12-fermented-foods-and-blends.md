@@ -91,6 +91,71 @@ rather than instead of one.
 
 ---
 
+## 2b. The risk specific to daily raw green blends: oxalate
+
+Not theoretical. A published case describes a **green-smoothie cleanse causing oxalate
+nephropathy and end-stage kidney disease** (Makkapati, D'Agati & Balsam, *Am J Kidney
+Dis* 2018;71:281-6). Blending is the high-risk route precisely because it means large
+volumes of *raw* leaves with no cooking water to discard. Risk multiplies with
+malabsorption, recent antibiotics, low dietary calcium, or existing kidney impairment.
+About three quarters of kidney stones are calcium oxalate.
+
+**The fix costs nothing - change the leaf.**
+
+### Greens, per 100 g raw (USDA FoodData Central; oxalate from *Foods* 2023)
+
+| Green | Fibre | Potassium | Vitamin K | Sodium | Oxalate |
+|---|---|---|---|---|---|
+| **Cabbage** | 2.5 g | **170 mg** | **76 ug** | 18 mg | 0-7 mg |
+| **Broccoli** | 2.6 g | 316 mg | 102 ug | 33 mg | 0-16 mg |
+| **Romaine** | 2.1 g | 247 mg | 102 ug | **8 mg** | - |
+| **Kale** | **4.1 g** | 348 mg | 390 ug | 53 mg | not detected |
+| Rocket | 1.6 g | 369 mg | 109 ug | 27 mg | not detected |
+| Watercress | 0.5 g | 330 mg | 250 ug | 41 mg | not detected |
+| Spinach | 2.2 g | **558 mg** | 483 ug | 79 mg | **330-2,350 mg** |
+| Parsley | 3.3 g | 554 mg | **1,640 ug** | 56 mg | 271 mg |
+| Swiss chard | 1.6 g | 379 mg | 830 ug | **213 mg** | **874-1,458 mg** |
+| Beet greens | 3.7 g | **762 mg** | 400 ug | - | 694 mg |
+
+**Cabbage wins** on fibre per milligram of potassium, with the lowest vitamin K and low
+oxalate. **Kale is the best blend leaf** - most fibre, no detectable oxalate - provided
+the portion stays steady if there is warfarin. **Swiss chard is the one to drop**: high
+sodium, vitamin K and oxalate simultaneously. Spinach is the wrong leaf for a daily raw
+blend.
+
+### Boiling, with the water discarded, is the lever
+
+Controlled study, 100 g vegetable to 1.5 L water (Martinez-Pineda et al., *Nefrologia*
+2016;36:427-32) - percentage of potassium removed:
+
+| Treatment | Chard leaves | Green beans |
+|---|---|---|
+| Soak only | 20.1% | 14.5% |
+| Normal boil | **47.0%** | 32.9% |
+| Soak + double boil | **67.0%** | 47.1% |
+| Pre-frozen + soak + double boil | **99.3%** | 97.3% |
+
+It works on oxalate too: boiling removes **30-87%** of soluble oxalate, steaming only
+5-53%, baking essentially none. Recovery in the water is near total, so **the water
+must be thrown away.**
+
+**Compare per portion, not per 100 g.** One cup of raw chard is 36 g and 136 mg of
+potassium; one cup *cooked* is 175 g and **961 mg**, because five times more leaf fits
+once it wilts. And a caution against a tempting misreading: tables showing chard at
+379 mg/100 g raw versus 549 mg/100 g boiled do **not** show that boiling raises
+potassium - those are independent analytical samples, not a matched experiment. The
+controlled figure is the -47% above.
+
+### Vitamin K - steady beats low
+
+Target consistency at roughly 90-120 ug/day. In patients with unstable INR, giving
+**150 ug/day** raised time in therapeutic range from **59% to 87%** (Sconce et al.,
+*Blood* 2007;109:2419-23). Avoidance is the common patient error and makes control
+worse. **If the anticoagulant is a DOAC, vitamin K is irrelevant and this constraint
+disappears** - worth checking which drug it actually is before restricting anything.
+
+---
+
 ## 3. Pace — the part that actually matters
 
 The question was "at which maximum pace". The answer is **much slower than expected at

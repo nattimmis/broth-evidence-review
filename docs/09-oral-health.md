@@ -59,9 +59,16 @@ n=184.
 
 Oral bacteria reduce dietary nitrate to nitrite and onward to nitric oxide;
 antibacterial mouthwash abolishes this and raises systolic blood pressure by 2–3.5
-mmHg. Beetroot juice lowers systolic pressure by 3.55–5.31 mmHg. But orange juice
-contains **13–30 mg/L** nitrate versus **over 2,000 mg/kg** in rocket and spinach.
-If the goal is an oral-cavity effect, the food is leafy greens and beetroot.
+mmHg. Pooled across 16 trials, dietary nitrate lowers systolic pressure about
+**4.4 mmHg**. Orange juice carries **13–30 mg/L** nitrate; rocket carries **480 mg per
+100 g** against spinach's 78. So the pathway is real, and orange juice is not the way in.
+
+> **Correction — do not chase this effect in cirrhosis.** Nitric oxide is part of what
+> drives the splanchnic vasodilation and hyperdynamic circulation of cirrhosis, and
+> long-acting nitrate *drugs* are considered deleterious in late-stage disease.
+> **Dietary nitrate in cirrhosis is unstudied — no trials and no safety data.** Eat
+> greens for their fibre. Do not present rocket or beetroot as a vascular benefit
+> for this person.
 
 ## Verdict
 
