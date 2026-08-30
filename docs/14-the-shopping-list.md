@@ -71,13 +71,26 @@ sodium** - about 13% of the daily ceiling.
 
 ## The trolley
 
-**Non-negotiables:** porridge oats 1 kg (60 g/day delivers 3 g beta-glucan; a 40 g
-serving gives only ~2 g), whole milk 4-6 pints, plain **pasteurised** Greek yoghurt
-2 x 500 g, coffee.
+**Non-negotiables:** porridge oats 1 kg (**50-60 g/day** - published beta-glucan figures
+for oats range from about **4 to 7.5 g per 100 g** depending on product and assay, so
+50-60 g clears the 3 g threshold on either figure, and erring high costs nothing but
+useful calories), whole milk 4-6 pints, plain **pasteurised** Greek yoghurt 2 x 500 g,
+coffee.
 
-**Protein:** chicken breast 1 kg, tinned sardines or mackerel 4-6 tins (spring water or
-oil, not brine), eggs 12-18, cheddar or cottage cheese, red lentils or no-added-salt
-beans.
+**Protein:** chicken breast 1 kg, tinned sardines or mackerel 4-6 tins **in oil,
+undrained**, eggs 12-18, cheddar or cottage cheese, red lentils or dry pulses.
+
+> **Correction.** An earlier version of this list said to choose spring water or oil over
+> brine "for the sodium". That is wrong: major UK brands list roughly **the same salt for
+> oil and brine** (John West 1.0 g for both; Princes 0.9 g for both), and spring water
+> saves only about 6-20%. Given that calories are the binding constraint, **buy tuna and
+> sardines in oil and do not drain them** - same salt, and the oil adds roughly 90 kcal a
+> tin. "No Drain" tuna is *higher* in salt, not lower.
+>
+> Also corrected: **Heinz do not make a no-added-salt or reduced-salt baked bean in the
+> UK.** Across two full supermarket catalogues (80,000+ products) there is **no
+> reduced-salt tinned soup, tinned fish, ham or sausage line at all**. Morrisons Reduced
+> Salt & Sugar beans exist. Dry lentils sidestep the problem entirely.
 
 **Calorie density:** peanut butter, olive oil, double cream or full-fat milk powder for
 fortifying without adding volume.
@@ -102,6 +115,44 @@ processed meat; potassium salt substitutes (contraindicated with spironolactone)
 entire supplement aisle - turmeric capsules, green tea extract, milk thistle, antioxidant
 pills; bagged pre-cut salad, sprouts, pre-cut fruit and unpasteurised cheese; grapefruit
 and Seville orange.
+
+
+## The stock cube - the biggest sodium trap, and the one this review nearly missed
+
+Milligrams of sodium in one realistic portion, against a 2,000 mg daily ceiling. This
+matters most of all here, because the project began as a question about **broth** - and a
+stock cube is the thing people add to a pot without thinking of it as salt.
+
+| Item | mg sodium/portion | % of the day | Swap | mg |
+|---|---|---|---|---|
+| **Knorr chicken stock cube, ONE cube** | **1,652** | **83%** | Kallo Very Low Salt | 200 |
+| Kippers, grilled 130 g | 1,231 | 62% | Fresh mackerel 130 g | 212 |
+| Tinned chicken broth, one can | 1,008 | 50% | Homemade lentil soup 300 g | 174 |
+| Back bacon, two rashers | 881 | 44% | Bacon medallions | 266 |
+| Marigold bouillon, 250 ml mug | 880 | 44% | Kallo Very Low Salt | 200 |
+| Smoked mackerel, 93 g | 841 | 42% | Fresh mackerel | 212 |
+| Cottage cheese, 175 g pot | 539 | 27% | A lower-salt brand | 80 |
+| *Seeded farmhouse bread, 2 slices* | *259* | *13%* | *(the good loaf)* | - |
+
+**One stock cube spends 83% of the entire day's sodium.** Kallo Very Low Salt cubes were
+the only genuinely low-sodium product found across two full UK supermarket catalogues.
+
+**Smoked fish is the only UK food category with no salt-reduction target at all** -
+kippers and smoked mackerel are unregulated and are the worst per-portion offenders after
+stock. Fresh mackerel is about a sixth of the sodium of smoked.
+
+And a genuine surprise: **Corn Flakes at 1.1 g salt/100 g is saltier by weight than any
+bread in a 242-loaf survey**, and breaches the government's own 0.90 g maximum. Rice
+Krispies at 1.0 g does too. Porridge sidesteps it.
+
+### One unresolved point for the dietitian
+
+Two readings of EASL's lower sodium bound were obtained - **40 mmol/day (~920 mg)** and
+**60 mmol/day** - against a recommended band of 80-120 mmol/day. Both agree that the
+2,000 mg working target sits at the **lower** end of the recommended range and that going
+**below** it risks diuretic-induced hyponatraemia and renal failure. The exact floor could
+not be reconciled from the sources fetched. **Do not drive sodium lower than 2 g/day
+without the dietitian saying so.**
 
 ## The item that matters most, and nobody sells it
 
