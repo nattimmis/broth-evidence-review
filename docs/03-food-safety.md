@@ -36,9 +36,19 @@ pasture-raised animals and not extending beyond ~13h both help at the margin.
 
 ## Immunocompromised handling
 
-The strict "neutropenic diet" has largely fallen out of favour — it was never shown
-to reduce infection and it *did* reduce intake, which is the greater danger. Ordinary
-food-safety discipline is what remains, and it is sufficient:
+The strict "neutropenic diet" had largely fallen out of favour — three RCTs found no
+reduction in infection while it *did* reduce intake, which is the greater danger.
+
+> **Update, December 2025 — this is no longer settled.** A phase III non-inferiority
+> trial was **stopped early at interim analysis** (214 evaluable patients): the
+> liberalised diet exceeded the non-inferiority margin for major infection, greater
+> adherence to the liberal diet meant *higher* infection risk, and there was no calorie
+> or protein benefit. That trial was in stem-cell-transplant and acute-leukaemia
+> patients, **not stage 4 solid tumours**, so it does not settle the question either
+> way. Ask the oncology team rather than trusting any general guidance, including this.
+> See [`10-interactions-and-traps.md`](10-interactions-and-traps.md).
+
+Ordinary food-safety discipline remains the floor, and it is sensible regardless:
 
 | Do | Why |
 |---|---|
