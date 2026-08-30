@@ -154,6 +154,42 @@ Two readings of EASL's lower sodium bound were obtained - **40 mmol/day (~920 mg
 not be reconciled from the sources fetched. **Do not drive sodium lower than 2 g/day
 without the dietitian saying so.**
 
+
+## Three swaps worth more than the rest of the list combined
+
+Read off UK labels against the DHSC 2024 salt targets. Two of them overturn advice almost
+everyone gives.
+
+| Swap from | mg Na | Swap to | mg Na |
+|---|---|---|---|
+| Sliced bread, one slice | 144-224 | **Unsalted matzo, one piece** | **3** |
+| Corn Flakes, 30 g bowl | 136 | **Porridge oats, any amount** | **0** (Quaker label states 0 g salt) |
+| John West sardines, 90 g can | 360 | **Morrisons own-label sardines, 45 g** | **100** |
+
+**Unsalted matzo is the single most effective swap available** - about a fiftyfold
+reduction against bread, doing the same job under cheese, pate or a boiled egg. If sodium
+is the binding constraint, this frees more headroom than anything else here.
+
+**Two pieces of common advice the labels disprove:**
+- **Wholemeal is not lower in salt than white.** Hovis list both at an identical
+  **0.90 g/100 g**. Colour genuinely tells you nothing.
+- **Corn Flakes (1.1 g/100 g) and Rice Krispies (1.0 g) breach the government's own 2024
+  maximum of 0.90 g.** Porridge was already the right breakfast for the beta-glucan; it is
+  also the right one for sodium.
+
+**Official DHSC 2024 targets** (salt g x 400 = sodium mg): bread average **0.85 g/100 g**
+(max 1.01); breakfast cereals average **0.48 g** (max 0.90); canned tuna **0.85 g**; other
+canned fish average **0.81 g** (max 1.43).
+
+**Bread is confirmed as the UK's single largest salt contributor** - 14% of intake in
+adults, 16% in children, **17% in the over-65s**.
+
+**Strongest negative finding:** a search of the complete Morrisons catalogue (30,320
+products) found **no no-added-salt or reduced-salt tinned fish of any kind**. The 39
+low-salt products are stocks, gravies, butters, sauces and beans. The practical low-salt
+tinned fish is an own-label sardine at 220 mg sodium/100 g, not anything marketed as
+low-salt.
+
 ## The item that matters most, and nobody sells it
 
 **The late-evening snack.** A meta-analysis of 8 trials in 341 patients found it improved
