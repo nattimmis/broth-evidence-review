@@ -190,6 +190,50 @@ low-salt products are stocks, gravies, butters, sauces and beans. The practical 
 tinned fish is an own-label sardine at 220 mg sodium/100 g, not anything marketed as
 low-salt.
 
+
+## Fortified milk - the cheapest calorie engine, and the answer to the volume problem
+
+The standard NHS "food first" technique. It raises calories and protein without raising
+the amount he has to swallow, which is the binding constraint.
+
+| | kcal | Protein |
+|---|---|---|
+| 1 pint whole milk | 396 | 19.2 g |
+| **1 pint + 4 tbsp dried milk powder** | **570** | **37.2 g** |
+| **Gain** | **+174** | **+18 g** |
+
+For scale: porridge made with water is 49 kcal, with whole milk 116, **with fortified milk
+144**. A prescribed 200 ml supplement (Ensure, Fresubin Energy) is 300 kcal - the benchmark
+this approach is trying to match without a prescription.
+
+**Three details from the guidance that are easy to get wrong:**
+- **Start at 2 tablespoons and build to 4 over a few days** - it is titrated, not immediate.
+- Use plain own-label or Marvel powder, **not** versions with added vegetable fats.
+- **Do not use fortified milk in tea.**
+
+## The "Greek style" trap
+
+UK composition tables list **"Greek STYLE" yoghurt at 5.7 g protein per 100 g** against
+real strained Greek yoghurt at 10.3 g. One word on the tub, and **half the protein**.
+
+A 150 g pot of the real thing is 15.4 g; the "style" version is 8.6 g. Buy the one that
+says Greek, not Greek style, or the day quietly falls about 7 g short.
+
+## Verified composition backbone (UK CoFID)
+
+| Code | Food | Protein/100 g | kcal | Sodium mg |
+|---|---|---|---|---|
+| 18-323 | Chicken breast, grilled | 32.0 | 148 | 55 |
+| 12-346 | Cheddar, English | 25.4 | 416 | **723** |
+| 12-596 | Whole milk | 3.4 | 63 | 42 |
+| 12-555 | Yogurt, **Greek style**, plain | **5.7** | 133 | - |
+| 11-788 | Porridge oats, unfortified | 10.9 | 381 | - |
+| 11-981 | Bread, wholemeal, average | 9.4 | 217 | 400 |
+
+Note the cheddar sodium - 723 mg/100 g. It is a good protein and calorie source and a
+significant salt source at the same time; use it in small amounts on the late-evening
+snack rather than in quantity.
+
 ## The item that matters most, and nobody sells it
 
 **The late-evening snack.** A meta-analysis of 8 trials in 341 patients found it improved
